@@ -1,0 +1,16 @@
+{
+  "name": "devforthaifreedom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DevForThaiFreedom/devforthaifreedom.git",
+  "author": "Developer for Thai Freedom <devforthaifreedom@example.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
